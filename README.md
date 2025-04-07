@@ -65,7 +65,7 @@ Problem Solving • Team Collaboration • Time Management • Adaptability
   <a href="mailto:sivakarthikeyanff001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/siva-karthikeyan-m">
+  <a href="https://www.linkedin.com/in/siva-karthikeyan-m-3975ab284">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="tel:+916381678785">
